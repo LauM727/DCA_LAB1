@@ -1,0 +1,22 @@
+{
+  "name": "dca_lab1",
+  "version": "1.0.0",
+  "description": "lab1 de dca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LauM727/DCA_LAB1.git"
+  },
+  "author": "Laura Marcela Mendieta y Sebastian Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LauM727/DCA_LAB1/issues"
+  },
+  "homepage": "https://github.com/LauM727/DCA_LAB1#readme",
+  "devDependencies": {
+    "name-generate": "^0.0.1"
+  }
+}
