@@ -18,5 +18,8 @@
   "homepage": "https://github.com/LauM727/DCA_LAB1#readme",
   "devDependencies": {
     "name-generate": "^0.0.1"
+  },
+  "dependencies": {
+    "cowsayjs": "^2.0.0"
   }
 }
